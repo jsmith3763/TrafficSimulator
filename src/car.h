@@ -1,7 +1,7 @@
 #ifndef CAR_H
 #define CAR_H
-
-class car
+#include "vehicle.h"
+class car : public vehicle
 {
 
 };
