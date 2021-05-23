@@ -3,5 +3,5 @@
 //default constructor
 vehicle::vehicle()
 {
-
+	// stub out
 }
