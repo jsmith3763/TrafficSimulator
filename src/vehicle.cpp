@@ -1,7 +1,7 @@
 #include "vehicle.h"
 
 //default constructor
-vehicle::vehicle()
-{
-	// stub out
-}
+//vehicle::vehicle()
+//{
+//	// stub out
+//}
